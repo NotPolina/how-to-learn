@@ -11,7 +11,7 @@
   max-height: 756px;
   padding: 0;
   background-color: #f2f2f2;
-  position: relative; 
+  position: relative;
   display: flex;
   overflow: hidden;
   z-index: -3;
@@ -122,7 +122,7 @@
 }
 
 .section-title {
-  margin-top: 100px  ;
+  margin-top: 100px;
   width: 60%;
   font-size: 60px;
   line-height: 1,15;
@@ -160,11 +160,10 @@
 }
 
 .table_text {
-  margin: 20px;
+  margin-top: 20px;
   font-size: 18px;
   line-height: 1,2;
   font-weight: normal;
-  margin: 0;
 }
 
 .feynman {
