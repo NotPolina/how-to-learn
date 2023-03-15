@@ -266,7 +266,6 @@
   flex-wrap: wrap;
   z-index: 1;
   list-style-type: none;
-  width: 90%;
 }
 
 .table__cell_theme_dark {
