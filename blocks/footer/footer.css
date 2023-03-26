@@ -70,7 +70,13 @@
     align-items: center;
     text-decoration: none;
     color: #fff;
+    transition: opacity 0;
 }
+
+.footer__column-link:hover {
+    opacity: 0.5;
+}
+
   
 .footer__social-icon {
     width: 16px;

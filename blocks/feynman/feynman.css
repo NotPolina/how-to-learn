@@ -40,7 +40,13 @@
     z-index: 1;
     color: #2f80ed;
     text-decoration: none;
+    transition: opacity 0;
 }
+
+.feynman__link:hover {
+    opacity: 0.5;
+}
+
   
 .feynman__pic {
     height: 637px;

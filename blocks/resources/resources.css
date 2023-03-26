@@ -16,5 +16,9 @@
   height: 38px;
   margin: 0;
   padding: 0;
-  object-fit: contain;
+  transition: opacity 0;
+}
+
+.resources__link:hover {
+  opacity: 0.5;
 }
